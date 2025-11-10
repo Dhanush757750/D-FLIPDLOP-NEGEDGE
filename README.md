@@ -59,4 +59,5 @@ initial Q=0;
 <img width="1920" height="1200" alt="Screenshot 2025-10-09 133311" src="https://github.com/user-attachments/assets/78eae70a-25a9-48eb-9814-d2d5d5f6e81c" />
 
 
-**RESULTS**
+**RESULTS:**
+Program Executed successfully.
